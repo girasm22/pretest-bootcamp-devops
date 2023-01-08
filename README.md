@@ -48,3 +48,10 @@ Silahkan buat docker-compose filenya, kemudian simpan dalam folder `tasks` denga
 2. Kenapa Orchestration Container System seperti Kubernetes sangat popular (menurut anda)?
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
+
+Task 1
+![Soal tabel data no 1](https://user-images.githubusercontent.com/71431037/211185791-9c94adaa-7543-4fc7-af62-c3db9e32ded4.jpg)
+
+Task 3 
+1. Container Orchestration adalah sebuah tools yang dapat melayani host dalam sebuah group dan membentuk sebuah cluster serta membantu kita memenuhi layanan seperti bisa fault-tolerant, bisa discale up secara mudah dan on-demand process, memakai resources secara maksimal, dll.
+2. Kubernetes populer karena telah dikelola oleh Cloud Native Computing Foundation (CNCF) sebagai platform manajemen kontainer. Kontainer sendiri adalah environment dengan sumber daya, CPU, dan sistem file untuk satu aplikasi. Jadi, aplikasi tersebut akan memiliki sumber daya sendiri. Keuntungannya, aplikasi jadi tidak mudah mengalami downtime. Kubernetes memiliki kemampuan untuk melakukan penjadwalan aplikasi, load balancing server dan peningkatan kapasitas kontainer secara otomatis.
